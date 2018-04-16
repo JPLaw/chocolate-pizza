@@ -37,7 +37,7 @@ h2{
 
 h3{
   font-size: 0px;
-  font weight: bold;
+  font-weight: bold;
   vertical-align: top;
 }
 
@@ -55,3 +55,14 @@ p{
   margin-right: 0px;
   margin-bottom: 0px;
 }
+
+ul{
+  background-image: url("img/list-bg.png");
+  column-count: 2;
+  line-height: 30px;
+  list-style-position: inside;
+  margin-bottom: 20px;
+
+}
+
+
